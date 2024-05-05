@@ -1,0 +1,23 @@
+<div>
+  <table>
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Gender</th>
+        <th>Department</th>
+        <th>Age</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let user of users">
+        <td><input type="text" [(ngModel)]="user.name" /></td>
+        <td><input type="text" [(ngModel)]="user.gender" /></td>
+        <td><input type="text" [(ngModel)]="user.department" /></td>
+        <td><input type="number" [(ngModel)]="user.age" /></td>
+      </tr>
+    </tbody>
+  </table>
+  <button [disabled]="!anyChanges()" (click)="updateUsers()">
+    Update Users
+  </button>
+</div>
