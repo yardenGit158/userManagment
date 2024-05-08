@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tn+L0GJggUMtRYhCFUIROIsBdWx4xju0KNKK/Glu6Ao+6wbDdV8adrNVDjAp8pbhUHAtIu5T6Ekcjl7S2B6dzw==",
+  "dgSpecHash": "Farww/9CtAt92L2yyV5tN5CWvydgrTnx2WYlSuhTcrF7LxyxNcvGBPJF04eDxpOnVjVOIqdMOtZHI2drGEu7Kw==",
   "success": true,
-  "projectFilePath": "D:\\job practices\\practiceForMAx\\practiceForMAx\\practiceForMAx.csproj",
+  "projectFilePath": "D:\\job practices\\userManagment\\practiceForMAx\\practiceForMAx\\practiceForMAx.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yarden\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.1\\microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
     "C:\\Users\\Yarden\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

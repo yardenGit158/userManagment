@@ -7,7 +7,7 @@ builder.Services.AddSingleton<IUserManagment, UserManagment>();
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("CorsPolicy", builder =>
-        builder.WithOrigins("http://localhost:55949") // Adjust the port if your Angular app is running on a different one
+        builder.WithOrigins("http://localhost:3000") // Adjust the port if your Angular app is running on a different one
                .AllowAnyHeader()
                .AllowAnyMethod()
                .AllowCredentials());

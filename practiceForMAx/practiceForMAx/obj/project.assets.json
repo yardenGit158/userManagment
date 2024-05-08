@@ -468,11 +468,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\job practices\\practiceForMAx\\practiceForMAx\\practiceForMAx.csproj",
+      "projectUniqueName": "D:\\job practices\\userManagment\\practiceForMAx\\practiceForMAx\\practiceForMAx.csproj",
       "projectName": "practiceForMAx",
-      "projectPath": "D:\\job practices\\practiceForMAx\\practiceForMAx\\practiceForMAx.csproj",
+      "projectPath": "D:\\job practices\\userManagment\\practiceForMAx\\practiceForMAx\\practiceForMAx.csproj",
       "packagesPath": "C:\\Users\\Yarden\\.nuget\\packages\\",
-      "outputPath": "D:\\job practices\\practiceForMAx\\practiceForMAx\\obj\\",
+      "outputPath": "D:\\job practices\\userManagment\\practiceForMAx\\practiceForMAx\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
